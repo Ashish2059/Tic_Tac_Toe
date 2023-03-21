@@ -1,3 +1,4 @@
+//This is simple Tic Tac Toe game
 package main
 
 import (
